@@ -1,4 +1,4 @@
-<div align="center"><img width="300" height="236" alt="Watch Dogs 2 Logo" src="https://github.com/user-attachments/assets/52e0185e-89a9-4bb1-a434-d9d288fa4a3b" />
+<div align="center"><img width="150" height="118" alt="Watch Dogs 2 Logo" src="https://github.com/user-attachments/assets/52e0185e-89a9-4bb1-a434-d9d288fa4a3b" />
 
 ## <div align="center">Hi! 👋 My name is Mikhail</div> 
   
