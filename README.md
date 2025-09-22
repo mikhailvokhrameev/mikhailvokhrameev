@@ -10,7 +10,7 @@ I am studying Data Science at BMSTU. In my free time, I take online courses in M
 - 💪 I’m currently working on workout tracking app  
   
 
--  📚 I’m currently studying Deep Learning, Computer vision and Big Data  
+-  📚 I’m currently studying Deep Learning, Computer Vision and Big Data  
   
 <br/>  
 
