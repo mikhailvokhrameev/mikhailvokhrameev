@@ -9,7 +9,7 @@
 I am studying Data Science at BMSTU. In my free time, I take online courses in ML and participate in hackathons. I am looking for my first job in DS.  
   
 
-- 💪 I’m currently working on [workout tracking app](https://github.com/mikhailvokhrameev/workout_tracking_app.git)
+- 💪 I’m currently working on a [workout tracking app](https://github.com/mikhailvokhrameev/workout_tracking_app.git)
   
 
 -  📚 I’m currently studying Deep Learning, Computer Vision and Big Data  
