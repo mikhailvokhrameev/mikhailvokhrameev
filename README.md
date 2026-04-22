@@ -6,9 +6,11 @@
 
 
 ### About me  
-I am studying Data Science at BMSTU. In my free time, I take online courses in ML and participate in hackathons. I am looking for my first job in DS.  
+I am a student at the ICS6 department of BMSTU, specializing in AI Systems. I take online courses and participate in ML hackathons in my free time.
+I am looking for my first job in Data Science!  
   
--  I’m currently studying NLP
+-  Сurrently studying NLP
+-  Currently working on [KAN-CTGAN-DP](https://github.com/mikhailvokhrameev/KAN-CTGAN-DP.git)
 
 
 ## Connect with me  
