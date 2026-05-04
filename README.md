@@ -10,7 +10,7 @@ I am a student at the ICS6 department of BMSTU, specializing in AI Systems. I ta
 I am looking for my first job in Data Science!  
   
 -  Сurrently studying NLP
--  Currently working on [KAN-CTGAN-DP](https://github.com/mikhailvokhrameev/KAN-CTGAN-DP.git)
+-  Currently working on [Home Credit Default Risk | ML Coursework](https://github.com/mikhailvokhrameev/credit_scoring_ml_coursework.git)
 
 
 ## Connect with me  
