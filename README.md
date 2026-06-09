@@ -10,10 +10,10 @@ I am a student at the ICS6 department of BMSTU, specializing in AI Systems. I ta
 I am looking for my first job in Data Science!  
   
 -  Сurrently studying NLP
--  Currently working on [Home Credit Default Risk | ML Coursework](https://github.com/mikhailvokhrameev/credit_scoring_ml_coursework.git)
+-  Currently working on [LoanSight | Web service for experimenting with ML models for credit risk assessment](https://github.com/mikhailvokhrameev/loan_sight.git)
 
 
-## Connect with me  
+## Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mikhail-vokhrameev)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aft3rlyfe)
 
