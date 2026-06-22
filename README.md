@@ -10,7 +10,7 @@ I am a student at the ICS6 department of BMSTU, specializing in AI Systems. I ta
 I am looking for my first job in Data Science!  
   
 -  Сurrently studying NLP
--  Currently working on [LoanSight | Web service for experimenting with ML models for credit risk assessment](https://github.com/mikhailvokhrameev/loan_sight.git)
+-  Currently working on [Hybrid movie recommender system](https://github.com/mikhailvokhrameev/hybrid-movie-recommender.git)
 
 
 ## Contact me
